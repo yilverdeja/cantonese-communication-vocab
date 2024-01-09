@@ -10,8 +10,12 @@ Each lesson has a designated dialogue using the vocab lists. Here are the mp3 fi
   * [Audio Book 2](http://publish.commercialpress.com.hk/misc/Cantonese_2/)
   * [Audio Book 3](http://publish.commercialpress.com.hk/misc/cantonese3/index.html)
 
-## Sheet Name Ref
-The sheet_name_ref.csv file contains references for the names of each vocabulary list as written by the book authors
+## Files
+* The sheet_name_ref.csv file contains references for the names of each vocabulary list as written by the book authors
+* Each file has the following naming format B{book_num}L{lesson_num}S{sheet_id}
+  * ```book_num``` : the book number (1, 2, or 3)
+  * ```lesson_num``` : the lesson number within the book (1-10)
+  * ```sheet_id``` : every lessons has multiple vocab tables. starts from an id of 1 and increments sequentially. see sheet_name_ref.csv for the corresponding sheet names for each vocab table
 
 # Information
 ## Disclaimer
