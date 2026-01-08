@@ -1,4 +1,4 @@
-# Book 1 Audio
+# Book 2 Audio
 There are 10 lessons, and each lesson has 3 different file types. The files names are formatted like so: `L{num}_{type}.mp3`.
 
 For lessons 1 to 10, the `num` value will go from `L1` to `L10`.
@@ -10,7 +10,7 @@ The three different types of audio are:
 
 For example:
 * `L4_text.mp3` is the audio for Lesson 4 texts
-* `L10_L_S.mp3` is the audio for Lesson 10 listening & speaking
+* `L1_L_S.mp3` is the audio for Lesson 1 listening & speaking
 * `L5_voc.mp3` is the audio for Lesson 5 vocabulary in use
 
 In addition to the 10 lessons, there are audio files for 2 additional sections:
