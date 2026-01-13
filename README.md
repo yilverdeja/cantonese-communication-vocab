@@ -5,10 +5,17 @@ In this repository you will find a csv. digital versions of all the vocab lists 
 The series is designed to help learners progressively develop their listening and speaking skills in Cantonese. It uses real-life scenarios, common vocabulary, and practical exercises to facilitate learning. The series also provides detailed explanations of Cantonese grammar and usage. Each book in the series builds upon the previous one, introducing more complex vocabulary and grammar as the series progresses. This allows learners to gradually improve their Cantonese skills, starting from basic communication and moving towards fluency.
 
 ## Listening Practice
-Each lesson has a designated dialogue using the vocab lists. Here are the mp3 files:
-  * [Audio Book 1](http://publish.commercialpress.com.hk/misc/Cantonese_1/)
-  * [Audio Book 2](http://publish.commercialpress.com.hk/misc/Cantonese_2/)
-  * [Audio Book 3](http://publish.commercialpress.com.hk/misc/cantonese3/index.html)
+Each lesson has a designated dialogue using the vocab lists. Here are the original mp3 files:
+* [Audio Book 1](http://publish.commercialpress.com.hk/misc/Cantonese_1/)
+* [Audio Book 2](http://publish.commercialpress.com.hk/misc/Cantonese_2/)
+* [Audio Book 3](http://publish.commercialpress.com.hk/misc/cantonese3/index.html)
+
+### Compressed Audio (Copies)
+
+I've created compressed copies of all the mp3 files and saved them to this repository. They're compressed to 16kbps using the opus (.ogg) format. The quality is still quite similar and very comprehensible. Here are the new compressed files:
+* [Audio Book 1](https://github.com/yilverdeja/cantonese-communication-vocab/tree/main/Audio%20Book%201)
+* [Audio Book 2](https://github.com/yilverdeja/cantonese-communication-vocab/tree/main/Audio%20Book%202)
+* [Audio Book 3](https://github.com/yilverdeja/cantonese-communication-vocab/tree/main/Audio%20Book%203)
 
 ## Files
 * The sheet_name_ref.csv file contains references for the names of each vocabulary list as written by the book authors

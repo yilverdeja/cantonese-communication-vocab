@@ -1,20 +1,21 @@
 # Book 3 Audio
-There are 10 lessons, and each lesson has 3 different file types. The files names are formatted like so: `L{num}_{type}.mp3`.
+There are 10 lessons, and each lesson has 3 different file types. The files names are formatted like so: `L{num}_{section}_{part}{type}.ogg`.
 
 For lessons 1 to 10, the `num` value will go from `L1` to `L10`.
 
-The three different types of audio are:
-* Texts: `text`
-* Vocabulary in use: `voc`
-* Listening and speaking: `L_S`
+The `section` represents the section in the text book's lesson chapter. The `part` is optional, but it represents a sub-section within the section. Both the `section` and `part` represent the headings within the lesson for reference.
+
+The 5 different types of audio are:
+* Texts: `Text`
+* Vocabulary in use: `Vocinuse`
+* Listening and speaking: `Listeningcomprehension`
+* Additional Text: `AdditionalText`
+* Authentic Oral Data: `Authenticoraldata`
+  * Per lesson, there's between 2-3 of the authentic oral data audio
 
 For example:
-* `L4_text.mp3` is the audio for Lesson 4 texts
-* `L1_L_S.mp3` is the audio for Lesson 1 listening & speaking
-* `L5_voc.mp3` is the audio for Lesson 5 vocabulary in use
-
-In addition to the 10 lessons, there are audio files for 2 additional sections:
-1. Mid-term Review (L1 to L5): `RL1_5_text.mp3`
-2. General Review (L1 to L10): `RL1_10_text.mp3`
+* `L5_7_1Listeningcomprehension.ogg` is the audio for Lesson 5 Section 7 Part 1 Listening Compression
+* `L8_8_6Authenticoraldata2.ogg` is the audio for Lesson 8 Section 8 Part 6 Autentic Oral Data #2
+* `L6_2Text.ogg` is the audio for Lesson 6 Section 2 Text
 
 
